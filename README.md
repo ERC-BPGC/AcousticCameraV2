@@ -1,5 +1,19 @@
 # AcousticCameraV2
 
-## Install dependencies
+## To use
 
-* To install python packages: `pip install -r requirements.txt`
+1. Clone the dev branch (don't add changes to main!).
+    ```
+    git clone --branch dev https://github.com/ERC-BPGC/AcousticCameraV2
+    ```
+2. Install necessary python packages: `pip install -r requirements.txt`
+
+## File descriptions
+
+* utils - Mostly python scripts 
+* teensy - Code for Teensy 4.0
+    * mice_test - First test using micros()
+
+
+
+
