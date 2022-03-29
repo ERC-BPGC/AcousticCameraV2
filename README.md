@@ -12,7 +12,7 @@
 
 * utils - Mostly python scripts 
 * teensy - Code for Teensy 4.0
-    * mice_test - First test using micros()
+    * mic_test - First test using micros()
 
 
 
