@@ -1,0 +1,4 @@
+tqdm
+pyserial
+numpy
+matplotlib
